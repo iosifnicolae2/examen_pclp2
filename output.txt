@@ -1,0 +1,2 @@
+d(numem3,nunkaf) = 454933.18322144845km
+d(nunkaf,numeadf) = 1635436.6643740747km
